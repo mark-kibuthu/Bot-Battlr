@@ -1,0 +1,11 @@
+.bot-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  .bot-card img {
+    width: 100px;
+    height: 100px;
+  }
+  
